@@ -1,0 +1,74 @@
+header { 
+    background-color: #ebebeb;
+    padding: 20px 247.5px 20px 247.5px;
+    margin:10px;
+    text-align: center;
+}
+
+nav{ 
+    background-color: #ebebeb;
+    padding: 20px 247.5px 20px 247.5px;
+    margin: 10px;
+    text-align: center;
+}
+
+section{
+    width:495px;
+    background-color: #ebebeb;
+float: left;
+margin: 10px;
+text-align: center;
+}
+
+article{
+    width:80%;
+    background-color: #777;
+    text-align: center;
+    color:#ebebeb; 
+    position: relative;
+    left: 10%;
+    
+    
+}
+
+h1{
+    width:495px;
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center
+}
+
+p{
+    width:495px;
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    position: relative;
+    right: 10%;
+}
+
+aside{
+    width:465px;
+    background-color: #ebebeb;
+    float: right;
+    margin:10px;
+    text-align: center;
+}
+
+footer{
+    background-color: #ebebeb;
+    padding: 20px 247.5px 20px 247.5px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+}
+
+body{
+    width:960px;
+    background-color: #777;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+}
